@@ -1,0 +1,171 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  max-width: 1200px;
+  margin: auto;
+  font-family:  Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+
+}
+
+.par1{
+  margin-left: 150px;
+  width: 100px;
+  float: left
+}
+.par2{
+  margin-top: 25px;
+  margin-right: 0px;
+  width: 800px;
+  float: right;
+}
+.elnombre{
+  width: 80px;
+}
+.elfloat{
+  display: inline-block; width: 100px;
+}
+.tamaño{ 
+  width: 150px;
+  height: 25px;
+}
+
+.tamaño{
+  margin-top: 10px;
+  width: 200px;
+}
+.boton{
+  margin-left: 30px;
+  background-color: #fee942;
+  width: 100px;
+  padding: 5px 20px;
+  border-radius: 8px;
+}
+
+.caja2{
+  margin-left: 100px;
+  width: 1200px;
+}
+.letras2{
+  padding: 14px 30px;
+  border: 1px black solid;
+  text-decoration: none;
+  color: black;
+}
+.rojo2{
+  background-color: #5d0201;
+  color: white;
+}
+.imagen2{
+  width: 1200px;
+  margin: auto;
+  margin-top: 11px;
+}
+.engrane{
+  float: left;
+
+}
+
+.texto{
+  border-bottom: 2px #333 solid;
+  display: inline-block; width: 100px;
+  width: 250px;
+}
+
+.caja5{
+  float: left;
+  width: 399px;
+  padding: 10px;
+  border-width: 1px;border-style: solid;
+  border-image: initial;
+  height: 350px;
+  text-align: center;
+}
+.letradorada{
+  color: #c90;
+}
+.blanco{
+  color: white;
+}
+.caja55{
+  border-radius: 10px;
+  background-color: #5d0201;
+  float: left;
+  width: 399px;
+  padding: 10px;
+  border-width: 1px;border-style: solid;
+  border-image: initial;
+  height: 350px;
+  text-align: center;
+}
+.caja6{
+  float: left;
+  width: 798px;
+  padding: 10px;
+  border-width: 1px;border-style: solid;
+  border-image: initial;
+  height: 350px;
+  text-align: left;
+}
+
+.boton2{
+  border-radius: 10px;
+  padding: 10px 40px;
+  background-color: #cc9900;
+}
+
+.letras3{
+margin-bottom: 10px;
+text-decoration: none;
+color: black;
+}
+ul {
+  list-style-type: square;
+}
+
+ul li {
+  color: red;
+  margin-bottom: 10px;
+  background-color: transparent;
+}
+.caja7{
+  background-color: #101518;
+
+}
+.aaa{
+  margin-left: 10px;
+  width: 399px;
+  float: left;
+}
+.mapa{
+  margin-top: 10px;
+
+}
+.imagen3{
+  width: 100px;
+  float: left;
+  text-align: center;
+}
+.aa{
+  text-align: center;
+  float: right;
+  color: white;
+}
+.tam{
+  font-size: 20px;
+
+}
+
+.ult{
+background-color: #5d0201;
+}
